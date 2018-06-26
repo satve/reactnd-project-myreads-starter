@@ -6,7 +6,7 @@ My Reads React
 
 My project is related to search books and mark them as currently reading, read and want to read. and made this project with react components. basically, it is a search app.
 
-``<img src="Screenshot (6).png" width = "300px">``
+<img src="Screenshot (6).png" width = "1000px">
 
 # Prerequisites
 
